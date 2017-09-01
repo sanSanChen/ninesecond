@@ -38,6 +38,10 @@
 		height: 32px;
 		margin: 0 auto;
 	}
+	.top_r,.top_l{
+		height: 32px;
+		line-height: 32px;
+	}
 	.hotline{
 		background: url('../../static/images/ico1.png') no-repeat left center;
 		text-indent: 25px;
