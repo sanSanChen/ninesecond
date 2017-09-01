@@ -2,13 +2,22 @@
 	<div class="casebox">
         <div class="caselist">
           	<ul>
-			  	<li v-for="list in lists">
-	              <img :src="list.src">
+			  	<li>
+	              <img src="../../../static/images/jjw.png">
 	              <p>
-	                {{list.text}}
+	                家教王APP
 	              </p>
 	              <p>
-	                {{list.site}}
+	                http://www.jiajiaoking.com/
+	              </p>
+            	</li>
+            	<li v-for="list in lists">
+	              <img src="../../../static/images/jmdb.png">
+	              <p>
+	                9秒夺宝
+	              </p>
+	              <p>
+	                http://1.ninemiao.com/
 	              </p>
             	</li>
           	</ul>
@@ -19,17 +28,7 @@
 	export default{
 		data(){
 			return {
-				lists:[
-					{
-						src:'../../../static/images/jjw.png',
-						text:'家教王APP',
-						site:'http://www.jiajiaoking.com/'
-					},{
-						src:'../../../static/images/jmdb.png',
-						text:'9秒夺宝',
-						site:'http://1.ninemiao.com/'
-					}
-				]
+
 			}
 		}
 	}
