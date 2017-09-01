@@ -11,7 +11,7 @@
 	                http://www.jiajiaoking.com/
 	              </p>
             	</li>
-            	<li v-for="list in lists">
+            	<li>
 	              <img src="../../../static/images/jmdb.png">
 	              <p>
 	                9秒夺宝

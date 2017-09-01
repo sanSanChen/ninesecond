@@ -38,7 +38,7 @@
 		height: 32px;
 		margin: 0 auto;
 	}
-	.top_r,.top_l{
+	.top_r,.hotline{
 		height: 32px;
 		line-height: 32px;
 	}
