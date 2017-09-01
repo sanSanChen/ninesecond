@@ -7,7 +7,7 @@
           	<dl>
 	            <dt>{{msg.dt}}</dt>
 	            <dd v-for="dd in msg.dd">
-	              	<img :src="dd.src" alt="dd.title">
+	              	<img :src="dd.src" :alt="dd.title">
 	              	<div>
 		                <p class="title">
 		                  {{dd.title}}
