@@ -29,10 +29,10 @@
 	},'Joinus');<br>
 }<br>
 new VueRouter(<br>
-  routes:[<br>
+  routes:[{<br>
     path: '/',<br>
     name: 'Joinus',<br>
-    component: Joinus,<br>
+    component: Joinus}<br>
   ]<br>
 )<br>
 路由还是正常配置，只是引入模块的时候加入了require.ensure <br>
