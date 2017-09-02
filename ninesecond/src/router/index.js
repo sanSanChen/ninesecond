@@ -1,19 +1,19 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-// import Public from '../components/Public.vue';
-// import Homepage from '../components/Homepage.vue';
+import Public from '../components/Public.vue';
+import Homepage from '../components/Homepage.vue';
 // import Product from '../components/Product.vue';
 // import Solution from '../components/Solution.vue';
 // import Classiccase from "../components/Classiccase.vue";
 // import About from '../components/About.vue';
 // import Joinus from '../components/Joinus.vue';
 // import Contactus from '../components/Contactus.vue';
-require.ensure([],(require)=>{
-  const Public = ()=>require('../components/Public.vue');
-},'Public');
-require.ensure([],(require)=>{
-  const Homepage = ()=>require('../components/Homepage.vue');
-},'Homepage');
+// require.ensure([],(require)=>{
+//   const Public = ()=>require('../components/Public.vue');
+// },'Public');
+// require.ensure([],(require)=>{
+//   const Homepage = ()=>require('../components/Homepage.vue');
+// },'Homepage');
 require.ensure([],(require)=>{
   const Product = ()=>require('../components/Product.vue');
 },'Product');
