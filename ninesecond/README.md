@@ -28,7 +28,8 @@
 #### 配置webpack 
 1、config文件夹下的index.js 中的build项中assetsSubDirectory是用来存放打包后的img/css/js的文件名称。（不需要修改）<br>
 <br>
-2、assetsPublicPath是用来配置服务端的公共地址（就是你的线上发布地址比如<p>http://aaa.com/dist/</p>）  打包好的文件里的img/js/css会自动添加网络前缀。比如说打包前你的img的src（../static/1.png）,打包后（<p>http://aaa.com/dist/static/1.png</p>）;（需要手动添加你的地址）<br>
+2、assetsPublicPath是用来配置服务端的公共地址（就是你的线上发布地址比如[](http://aaa.com/dist/)）  <br>
+打包好的文件里的img/js/css会自动添加此公共地址。比如说打包前你的img的src（../static/1.png）,打包后（http://aaa.com/dist/static/1.png）（需要手动添加你的地址，默认为/）<br>
 <br>
 3、config文件夹下的index.js中的 dev项中port:本地浏览端口地址，autoOpenBrowser是否自动打开浏览器，proxyTable用来配置本地ip<br>
 
