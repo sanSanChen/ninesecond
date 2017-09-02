@@ -1,37 +1,70 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Public from '../components/Public.vue';
-import Homepage from '../components/Homepage.vue';
+import { Indicator } from 'mint-ui';
+// import Public from '../components/Public.vue';
+// import Homepage from '../components/Homepage.vue';
 // import Product from '../components/Product.vue';
 // import Solution from '../components/Solution.vue';
 // import Classiccase from "../components/Classiccase.vue";
 // import About from '../components/About.vue';
 // import Joinus from '../components/Joinus.vue';
 // import Contactus from '../components/Contactus.vue';
-// require.ensure([],(require)=>{
-//   const Public = ()=>require('../components/Public.vue');
-// },'Public');
-// require.ensure([],(require)=>{
-//   const Homepage = ()=>require('../components/Homepage.vue');
-// },'Homepage');
-require.ensure([],(require)=>{
-  const Product = ()=>require('../components/Product.vue');
-},'Product');
-require.ensure([],(require)=>{
-  const Solution = ()=>require('../components/Solution.vue');
-},'Solution');
-require.ensure([],(require)=>{
-  const Classiccase = ()=>require('../components/Classiccase.vue');
-},'Classiccase');
-require.ensure([],(require)=>{
-  const About = ()=>require('../components/About.vue');
-},'About');
-require.ensure([],(require)=>{
-  const Joinus = ()=>require('../components/Joinus.vue');
-},'Joinus');
-require.ensure([],(require)=>{
-  const Contactus = ()=>require('../components/Contactus.vue');
-},'Contactus');
+const Public=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/Public.vue'));
+		Indicator.close()
+	},'Public');
+}
+const Homepage=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/Homepage.vue'));
+		Indicator.close()
+	},'Public');
+}
+const Product=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/Product.vue'));
+		Indicator.close()
+	},'Public');
+}
+const Solution=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/Solution.vue'));
+		Indicator.close()
+	},'Public');
+}
+const Classiccase=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/Classiccase.vue'));
+		Indicator.close()
+	},'Public');
+}
+const About=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/About.vue'));
+		Indicator.close()
+	},'Public');
+}
+const Joinus=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/Joinus.vue'));
+		Indicator.close()
+	},'Public');
+}
+const Contactus=resolve=>{
+	Indicator.open();
+	require.ensure([],()=>{
+		resolve(require('../components/Contactus.vue'));
+		Indicator.close()
+	},'Public');
+}
 Vue.use(Router);
 
 export default new Router({
