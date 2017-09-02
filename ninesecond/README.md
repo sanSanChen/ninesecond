@@ -18,4 +18,20 @@
 3.发布到服务器 只需要打包好的dist文件夹即可<br>
 
 ### 配置webpack 
-1.config文件夹下的index.js 中的build项中assetsPublicPath是用来配置服务端的公共地址（就是你的线上发布地址比如http://aaa.com/dist/）  打包好的文件里的img/js/css会自动添加网络前缀。比如说打包前src（../static/1.png）,打包后（http://aaa.com/dist/static/1.png）;
+1.config文件夹下的index.js 中的build项中assetsSubDirectory是用来存放打包后的img/css/js的文件名称。
+2.assetsPublicPath是用来配置服务端的公共地址（就是你的线上发布地址比如http://aaa.com/dist/）  打包好的文件里的img/js/css会自动添加网络前缀。比如说打包前你的img的src（../static/1.png）,打包后（http://aaa.com/dist/static/1.png）;
+3.config文件夹下的index.js中的 dev项中port:本地浏览端口地址，autoOpenBrowser是否自动打开浏览器，proxyTable用来配置本地ip
+
+### vue-router+webpack(require.ensure)按需加载
+1.const Joinus=resolve=>{ 路由还是正常配置，只是引入的时候加入了require.ensure <br> 
+	require.ensure([],()=>{ require.ensure 有三个参数，第一个：模块的依赖，第二个：回调函数（加载模块的地方），第三个：分拆打包后的js文件名称<br>
+		resolve(require('../components/Joinus.vue'));<br>
+	},'Joinus');<br>
+}<br>
+new VueRouter(<br>
+  routes:[<br>
+    path: '/',<br>
+    name: 'Joinus',<br>
+    component: Joinus,<br>
+  ]<br>
+)
