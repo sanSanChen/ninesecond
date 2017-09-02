@@ -11,28 +11,28 @@
 						<ul>
 							<li>
 								<div class="contact_project">
-									<span>9秒夺宝PC</span></div>
+									<span>xx夺宝PC</span></div>
 								<div class="contact_people">
 									张先生</div>
 								<div class="contact_info">
 									<p class="ico_qq">
-										QQ：1761993143</p>
+										QQ：xxxxxxx</p>
 									<p class="ico_email">
-										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; background-color: rgb(246, 249, 252);">zhang@ninemiao.com</span></p>
+										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; background-color: rgb(246, 249, 252);">xxx@xxxx.com</span></p>
 									<p class="ico_tel">
-										电话：4006-258-380</p>
+										电话：4000-000-000</p>
 								</div>
 							</li>
 							<li>
 								<div class="contact_project">
-									<span>9秒夺宝APP</span></div>
+									<span>xx夺宝APP</span></div>
 								<div class="contact_people">
 									刘小姐</div>
 								<div class="contact_info">
 									<p class="ico_qq">
-										QQ：864334252</p>
+										QQ：xxxxxxx</p>
 									<p class="ico_email">
-										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; background-color: rgb(246, 249, 252);">liu@ninemiao.com</span></p>
+										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; background-color: rgb(246, 249, 252);">xxx@xxxxx.com</span></p>
 								</div>
 							</li>
 							<li>
@@ -42,9 +42,9 @@
 									王先生</div>
 								<div class="contact_info">
 									<p class="ico_qq">
-										QQ：978924295</p>
+										QQ：xxxxxxxx</p>
 									<p class="ico_email">
-										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; background-color: rgb(246, 249, 252);">wang@ninemiao.com</span></p>
+										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; background-color: rgb(246, 249, 252);">xxxxx@xxxxx.com</span></p>
 								</div>
 							</li>
 						</ul>
@@ -62,13 +62,13 @@
 									方小姐</div>
 								<div class="contact_info">
 									<p class="ico_qq">
-										QQ：474466637</p>
+										QQ：xxxxxx</p>
 									<p class="ico_email">
-										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; line-height: 19.2000007629395px;">hr@ninemiao.com</span>(请注明姓名+应聘岗位)</p>
+										邮箱：<span style="color: rgb(0, 0, 0); font-family: verdana; line-height: 19.2000007629395px;">xxxxx@xxxxxx.com</span>(请注明姓名+应聘岗位)</p>
 									<p class="ico_tel">
-										电话：4006-258-380</p>
+										电话：4000-000-000</p>
 									<p class="ico_wb">
-										微博：@九秒科技</p>
+										微博：@xx科技</p>
 								</div>
 							</li>
 						</ul>
@@ -81,9 +81,9 @@
 						公司地址</div>
 					<div class="contact_company_info">
 						<p>
-							地址：上海市嘉定区新成路500号J187室</p>
+							地址：上海市xx区xx路xx号xx室</p>
 						<p>
-							电话：4006-258-380</p>
+							电话：4000-000-000</p>
 					</div>
 				</div>
 			</div>

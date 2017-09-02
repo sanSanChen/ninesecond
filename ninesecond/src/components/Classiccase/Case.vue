@@ -8,7 +8,7 @@
 	                家教王APP
 	              </p>
 	              <p>
-	                http://www.jiajiaoking.com/
+	                http://www.xxxxxx.com/
 	              </p>
             	</li>
             	<li>
@@ -17,7 +17,7 @@
 	                9秒夺宝
 	              </p>
 	              <p>
-	                http://1.ninemiao.com/
+	                http://www.xxxxxxxx.com/
 	              </p>
             	</li>
           	</ul>

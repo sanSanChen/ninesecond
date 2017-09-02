@@ -3,7 +3,7 @@
 		<div class="navbox clearfix">
 			<div class="logo fl">
 				<router-link to="/">
-		          上海九秒官网
+		          上海XX官网
 		        </router-link>
 			</div>
 			<div class="nav fr">
@@ -34,12 +34,8 @@
 						link:'/classiccase'
 					}
 					,{
-						title:'关于九秒',
+						title:'关于XX',
 						link:'/about'
-					},
-					{
-						title:'微信营销',
-						link:'/'
 					}
 				]
 			}

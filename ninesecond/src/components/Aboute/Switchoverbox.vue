@@ -3,7 +3,7 @@
         <div class="switchover">
           <div class="switchover_tag">
             <a @click="click" id="about">
-              关于九秒
+              关于xx
             </a>
             <a @click="click" id="culture">
               企业文化
@@ -19,7 +19,7 @@
             <div v-if="about" class="switchover_cnt">
               <div class="article1 articlecss">
                 <div class="articlecss_row">
-                  上海九秒网络科技有限公司（下简称九秒）成立于2015年，由国内顶级产品及技术专家创建，是一家专注于互联网信息服务及移动互联网产品开发的企业。
+                  上海xx网络科技有限公司（下简称xx）成立于2015年，由国内顶级产品及技术专家创建，是一家专注于互联网信息服务及移动互联网产品开发的企业。
                 </div>
                 <br>
                 <div class="articlecss_tit blue">
@@ -27,7 +27,7 @@
                 </div>
                 <br>
                 <div class="articlecss_row">
-                  自公司成立以来，九秒一直以“为用户带来实在价值”为经营理念，以“简单、直接、快速”为经营准则，致力于为广大用户打造网络时代全方位的生活信息服务平台。
+                  自公司成立以来，xx一直以“为用户带来实在价值”为经营理念，以“简单、直接、快速”为经营准则，致力于为广大用户打造网络时代全方位的生活信息服务平台。
                 </div>
                 <br>
                 <div class="articlecss_tit blue">
@@ -35,7 +35,7 @@
                 </div>
                 <br>
                 <div class="articlecss_row">
-                  九秒致力于互联网信息服务、移动互联网应用开发领域。目前九秒旗下共推出1款手机应用（Android及iOS平台），家教王。截止至今，家教王应用安装量超过10万，日均活跃用户超过2万，日启动次数超过5万。目前下载量保持高速增长。同时，九秒还运营有9秒夺宝平台等。                </div>
+                  xx致力于互联网信息服务、移动互联网应用开发领域。目前九秒旗下共推出1款手机应用（Android及iOS平台），家教王。截止至今，家教王应用安装量超过10万，日均活跃用户超过2万，日启动次数超过5万。目前下载量保持高速增长。同时，xx还运营有9秒夺宝平台等。                </div>
                 <br>
                 <div class="articlecss_tit blue">
                   『发展历程』
@@ -44,7 +44,7 @@
                 <p>
                 2015年</p>
                 <p>
-                  9秒夺宝上线</p>
+                  夺宝上线</p>
                 <p>
                   家教王上线</p>
                 <br>
@@ -53,11 +53,11 @@
                 </div>
                 <br>
                 <div class="articlecss_row">
-                  九秒目前规模5人左右，平均年龄不超过28岁，是业内少有的男女比例平均的团队，比一般的互联网企业更具有活力，团队间协作更加高效、和谐。其核心人员由来自大型企业服务多年的技术工程师、业内经验丰富的设计师和运营专家组成。而且，九秒不断从各大高校汲取年轻、富有潜力的新生力量，为应届生提供广阔的平台。在注重员工业务能力提升的同时，也会结合员工的兴趣爱好及个人特长，让其可以向多种方向发展。
+                  xx目前规模5人左右，平均年龄不超过28岁，是业内少有的男女比例平均的团队，比一般的互联网企业更具有活力，团队间协作更加高效、和谐。其核心人员由来自大型企业服务多年的技术工程师、业内经验丰富的设计师和运营专家组成。而且，九秒不断从各大高校汲取年轻、富有潜力的新生力量，为应届生提供广阔的平台。在注重员工业务能力提升的同时，也会结合员工的兴趣爱好及个人特长，让其可以向多种方向发展。
                 </div>
                 <br>
                 <div class="articlecss_row">
-                  九秒是一个态度务实、乐于分享、积极向上的团队，一点点的积累让我们不断壮大，期待有更好的你加入我们。
+                  xx是一个态度务实、乐于分享、积极向上的团队，一点点的积累让我们不断壮大，期待有更好的你加入我们。
                 </div>
               </div>
               <div class="switchover_cnt_r">
@@ -143,33 +143,33 @@
                 <div class="product_list product_list1">
                   <ul>
                     <li>
-                      <a href="http://1.ninemiao.com/" alt="9秒夺宝" target="_blank">
-                        <img src="../../../static/images/8684cxlogo.png">
-                      </a>
-                      <p class="title">
-                        <a href="http://1.ninemiao.com/" target="_blank">
-                          9秒夺宝                        </a>                      </p>
-                      <p class="desc">
-                        1元夺宝网专业1元趣味购物平台
-                      </p>
-                    </li>
-                    <li>
-                      <a href="http://www.ninemiao.com/" title="新产品研发中" target="_blank">
+                      <a href="javascript:;" alt="新产品研发中" target="_blank">
                         <img src="../../../static/images/8684shlogo.png">
                       </a>
                       <p class="title">
-                        <a href="http://www.ninemiao.com/" target="_blank">
+                        <a href="javascript:;" target="_blank">
                           新产品研发中                        </a>                      </p>
                       <p class="desc">
                         感谢您的期待！
                       </p>
                     </li>
                     <li>
-                      <a href="http://www.ninemiao.com/" title="新产品研发中" target="_blank">
+                      <a href="javascript:;" title="新产品研发中" target="_blank">
+                        <img src="../../../static/images/8684shlogo.png">
+                      </a>
+                      <p class="title">
+                        <a href="javascript:;" target="_blank">
+                          新产品研发中                        </a>                      </p>
+                      <p class="desc">
+                        感谢您的期待！
+                      </p>
+                    </li>
+                    <li>
+                      <a href="javascript:;" title="新产品研发中" target="_blank">
                         <img src="../../../static/images/dwqlogo.png">
                       </a>
                       <p class="title">
-                        <a href="http://www.ninemiao.com/" target="_blank">
+                        <a href="javascript:;" target="_blank">
                           新产品研发中                        </a>                      </p>
                       <p class="desc">
                         感谢您的期待！
@@ -189,66 +189,66 @@
                 <div class="product_list product_list1">
                   <ul>
                     <li>
-                      <a href="http://www.jiajiaoking.com/" alt="家教王" target="_blank">
-                        <img src="../../../static/images/qxylogo.png">
-                      </a>
-                      <p class="title">
-                        <a href="http://www.jiajiaoking.com/" target="_blank">
-                          家教王                        </a>                      </p>
-                      <p class="desc">
-                        提供全国范围内与大学生面对面沟通学习的教育平台
-                      </p>
-                    </li>
-                    <li>
-                      <a href="http://www.ninemiao.com/" title="新产品研发中" target="_blank">
+                      <a href="javascript:;" alt="新产品研发中" target="_blank">
                         <img src="../../../static/images/wxydlogo.png">
                       </a>
                       <p class="title">
-                        <a href="http://www.ninemiao.com/" target="_blank">
-                      新产品研发中                        </a>                      </p>
-                      <p class="desc">
-                        感谢您的期待！
-                      </p>
-                    </li>
-                    <li>
-                      <a href="http://www.ninemiao.com/" title="新产品研发中" target="_blank">
-                        <img src="../../../static/images/ydgclogo.png">
-                      </a>
-                      <p class="title">
-                        <a href="http://www.ninemiao.com/" target="_blank">
-                      新产品研发中                        </a>                      </p>
-                      <p class="desc">
-                        感谢您的期待！
-                      </p>
-                    </li>
-                    <li>
-                      <a href="http://www.ninemiao.com/" alt="新产品研发中" target="_blank">
-                        <img src="../../../static/images/3145logo.png">
-                      </a>
-                      <p class="title">
-                        <a href="http://www.ninemiao.com/" target="_blank">
-                      新产品研发中                        </a>                      </p>
-                      <p class="desc">
-                        感谢您的期待！
-                      </p>
-                    </li>
-                    <li>
-                      <a href="http://www.ninemiao.com/" title="新产品研发中" target="_blank">
-                        <img src="../../../static/images/lifelogo.png">
-                      </a>
-                      <p class="title">
-                        <a href="http://www.ninemiao.com/" target="_blank">
+                        <a href="javascript:;" target="_blank">
                           新产品研发中                        </a>                      </p>
                       <p class="desc">
                         感谢您的期待！
                       </p>
                     </li>
                     <li>
-                      <a href="http://www.ninemiao.com/" title="新产品研发中" target="_blank">
+                      <a href="javascript:;" title="新产品研发中" target="_blank">
+                        <img src="../../../static/images/wxydlogo.png">
+                      </a>
+                      <p class="title">
+                        <a href="javascript:;" target="_blank">
+                      新产品研发中                        </a>                      </p>
+                      <p class="desc">
+                        感谢您的期待！
+                      </p>
+                    </li>
+                    <li>
+                      <a href="javascript:;" title="新产品研发中" target="_blank">
+                        <img src="../../../static/images/ydgclogo.png">
+                      </a>
+                      <p class="title">
+                        <a href="javascript:;" target="_blank">
+                      新产品研发中                        </a>                      </p>
+                      <p class="desc">
+                        感谢您的期待！
+                      </p>
+                    </li>
+                    <li>
+                      <a href="javascript:;" alt="新产品研发中" target="_blank">
+                        <img src="../../../static/images/3145logo.png">
+                      </a>
+                      <p class="title">
+                        <a href="javascript:;" target="_blank">
+                      新产品研发中                        </a>                      </p>
+                      <p class="desc">
+                        感谢您的期待！
+                      </p>
+                    </li>
+                    <li>
+                      <a href="javascript:;" title="新产品研发中" target="_blank">
+                        <img src="../../../static/images/lifelogo.png">
+                      </a>
+                      <p class="title">
+                        <a href="javascript:;" target="_blank">
+                          新产品研发中                        </a>                      </p>
+                      <p class="desc">
+                        感谢您的期待！
+                      </p>
+                    </li>
+                    <li>
+                      <a href="javascript:;" title="新产品研发中" target="_blank">
                         <img src="../../../static/images/86buslogo.png">
                       </a>
                       <p class="title">
-                        <a href="http://www.ninemiao.com/" target="_blank">
+                        <a href="javascript:;" target="_blank">
                       新产品研发中                        </a>                      </p>
                       <p class="desc">
                         感谢您的期待！

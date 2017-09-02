@@ -6,10 +6,10 @@
 					<dt>联系我们</dt>
 					<dd>
 						<div class="corpinfo">
-							<p class="ico2">公司地址：上海市嘉定区新成路500号J187室</p>
-							<p class="ico2">服务热线：4006-258-380</p>
-							<p class="ico2">商务合作：1761993143</p>
-							<p class="ico2">招聘联系：474466637</p>
+							<p class="ico2">公司地址：上海市XX区XX路XX号XX室</p>
+							<p class="ico2">服务热线：4000-000-000</p>
+							<p class="ico2">商务合作：xxxxxxxxx</p>
+							<p class="ico2">招聘联系：xxxxxxxxx</p>
 						</div>
 					</dd>
 				</dl>
@@ -27,7 +27,7 @@
 						<router-link to="/product">服务介绍</router-link>
 						<router-link to="/solution">解决方案</router-link>
 						<router-link to="/classiccase">典型案例</router-link>
-						<router-link to="/about">关于九秒</router-link>
+						<router-link to="/about">关于xx</router-link>
 						<router-link to="/joinus">加入我们</router-link>
 						<router-link to="/contactus">联系我们</router-link>
 					</dd>
@@ -36,19 +36,19 @@
 					<dt>站点推荐</dt>
 					<dd>
 						<div class="webmap">
-							<a href="javascript:;">9秒夺宝</a>
-							<a href="javascript:;">洋城商务</a>
-							<a href="javascript:;">翠格珠宝</a>
-							<a href="javascript:;">威育设备</a>
-							<a href="javascript:;">天威设备</a>
-							<a href="javascript:;">洋城集团</a>
+							<a href="javascript:;">xx夺宝</a>
+							<a href="javascript:;">xx商务</a>
+							<a href="javascript:;">xx珠宝</a>
+							<a href="javascript:;">xx设备</a>
+							<a href="javascript:;">xx设备</a>
+							<a href="javascript:;">xx集团</a>
 						</div>
 					</dd>
 				</dl>
 			</div>
 			<div class="footer_b">
 				<div class="copyright">
-            		© 2015 ninemiao.com 沪ICP备16012546号-1 上海九秒网络科技有限公司版权所有
+            		© 2015 xxxx.com 沪ICP备xxxxx号-1 上海xxxx有限公司版权所有
 				</div>
 			</div>
 		</div>

@@ -1,6 +1,6 @@
 <template>
 	<div class="wrap about">
-		<v-location link="/about" msg="关于九秒"></v-location>
+		<v-location link="/about" msg="关于xx"></v-location>
 		<div class="about_banner">
 			<v-banner></v-banner>
 		</div>

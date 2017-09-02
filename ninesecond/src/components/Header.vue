@@ -20,7 +20,7 @@
 	export default {
 		data(){
 			return {
-				hotline:'咨询热线：4006-258-380',
+				hotline:'咨询热线：4000-000-000',
 			}
 		}
 	}
