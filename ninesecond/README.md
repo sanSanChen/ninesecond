@@ -5,8 +5,8 @@
 [点击预览](http://sansanchen.github.io/ninesecond/ninesecond/dist/)
 
 
-# 简述一下所用到的
-# 首先要有基本的vue编写能力
+#2 简述一下所用到的
+#3 首先要有基本的vue编写能力
 1.下载vue-cli (vue自动化构建指令 npm install vue-cli) <br>
 2.输入命令 vue init webpack project(此处是创建文件的名字) <br>
 3.src文件夹下 components里编写你的组件 router里面编写你需要用到的路由 可以在main.js中引入你的静态公共css（比如清楚默认样式）
