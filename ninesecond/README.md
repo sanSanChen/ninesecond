@@ -1,4 +1,5 @@
-¾ÅÃëÍøÂç¹ÙÍø¡£
-1¡¢Ê×ÏÈÒª°²×°ÓĞnodeºÍnpm°ü ¿ÉÒÔÔÚÃüÁîĞĞÊäÈënode -v »òÕßnpm -v ²é¿´°æ±¾ 
-2¡¢µ½¸ùÄ¿Â¼´ò¿ªgitÃüÁîĞĞÊäÈënpm install 
-3¡¢×îºóÊäÈënpm run dev¼´¿É
+# ninesecond
+1ã€é¦–å…ˆè¦å®‰è£…æœ‰nodeå’ŒnpmåŒ… å¯ä»¥åœ¨å‘½ä»¤è¡Œè¾“å…¥node -v æˆ–è€…npm -v æŸ¥çœ‹ç‰ˆæœ¬ <br>
+2ã€åˆ°æ ¹ç›®å½•æ‰“å¼€gitå‘½ä»¤è¡Œè¾“å…¥npm install <br>
+3ã€æœ€åè¾“å…¥npm run devå³å¯ <br>
+[ç‚¹å‡»é¢„è§ˆ](http://sansanchen.github.io/ninesecond/ninesecond/dist/)
