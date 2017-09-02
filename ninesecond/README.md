@@ -38,4 +38,4 @@ new VueRouter(<br>
 路由还是正常配置，只是引入模块的时候加入了require.ensure <br>
 require.ensure 有三个参数，第一个：模块的依赖，第二个：回调函数（加载模块的地方），第三个：分拆打包后的js文件名称，这里要注意需要在build/webpack.base.conf.js里的output里添加chunkFilename:"[name].js"
 
-### 假如你要用:src来绑定data中的图片地址，data中要用src:require('../images/1.png'),不能直接写src:"../images/1.png",否则webpack不会打包此类图片。
+##### 假如你要用:src来绑定data中的图片地址，data中要用src:require('../images/1.png'),不能直接写src:"../images/1.png",否则webpack不会打包此类图片。
