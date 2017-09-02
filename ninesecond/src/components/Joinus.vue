@@ -29,12 +29,12 @@
                   </em>
                 </div>
                 <p>
-                  九秒新项目【9秒夺宝】http://1.ninemiao.com/                </p>
+                  新项目【xx夺宝】http://www.xxx.com/                </p>
                 <div class="join_listcnt_tit">
                   【您可以】：
                 </div>
                 <p>
-                  1.相关网站（1.ninemiao.com等）的内容整合、功能优化、用户量提升；                </p>
+                  1.相关网站（www.xxxx.com等）的内容整合、功能优化、用户量提升；                </p>
                 <p>
                   2.监控数据、分析数据，提升网站的流量；
                 </p>
@@ -72,7 +72,7 @@
                   简历投递方式：
                 </div>
                 <p>
-                  简历请直接发送至hr@ninemiao.com，邮件标题请注明姓名+应聘岗位                </p>
+                  简历请直接发送至xx@xxxxx.com，邮件标题请注明姓名+应聘岗位                </p>
               </div>
               <div v-if="technology" class="join_listcnt">
                 <div class="join_listcnt_tit">
@@ -364,7 +364,7 @@
                   简历投递方式：
                 </div>
                 <p>
-                  简历请直接发送至hr@ninemiao.com，邮件标题请注明姓名+应聘岗位                </p>
+                  简历请直接发送至xx@xxxx.com，邮件标题请注明姓名+应聘岗位                </p>
               </div>
               <div v-if="comprehensive" class="join_listcnt">
                 <div class="join_listcnt_tit">
@@ -414,7 +414,7 @@
                   简历投递方式：
                 </div>
                 <p>
-                  简历请直接发送至hr@ninemiao.com，邮件标题请注明姓名+应聘岗位                </p>
+                  简历请直接发送至xx@xxxxx.com，邮件标题请注明姓名+应聘岗位                </p>
               </div>
             </div>
           </div>
@@ -424,17 +424,17 @@
                 招聘联系
               </div>
               <p>
-                电 话：4006-258-380              </p>
+                电 话：4000-000-000              </p>
               <p>
-                QQ：864334252、1761993143              </p>
+                QQ：xxxxxxxxx、xxxxxxxx              </p>
               <p>
-                新浪微博：@九秒科技
+                新浪微博：@xx科技
               </p>
               <p>
                 联系人：王小姐
               </p>
               <p>
-                E-mail：hr@ninemiao.com              </p>
+                E-mail：xx@xxxxx.com              </p>
               <p class="center">
                 (请注明姓名+应聘岗位)
               </p>
