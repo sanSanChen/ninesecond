@@ -3,3 +3,6 @@
 2、到根目录打开git命令行输入npm install <br>
 3、最后输入npm run dev即可 <br>
 [点击预览](http://sansanchen.github.io/ninesecond/ninesecond/dist/)
+
+
+#简述一下所用到的
