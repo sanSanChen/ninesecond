@@ -16,37 +16,37 @@ const Public=resolve=>{
 const Homepage=resolve=>{
 	require.ensure([],()=>{
 		resolve(require('../components/Homepage.vue'));
-	},'Public');
+	},'Homepage');
 }
 const Product=resolve=>{
 	require.ensure([],()=>{
 		resolve(require('../components/Product.vue'));
-	},'Public');
+	},'Product');
 }
 const Solution=resolve=>{
 	require.ensure([],()=>{
 		resolve(require('../components/Solution.vue'));
-	},'Public');
+	},'Solution');
 }
 const Classiccase=resolve=>{
 	require.ensure([],()=>{
 		resolve(require('../components/Classiccase.vue'));
-	},'Public');
+	},'Classiccase');
 }
 const About=resolve=>{
 	require.ensure([],()=>{
 		resolve(require('../components/About.vue'));
-	},'Public');
+	},'About');
 }
 const Joinus=resolve=>{
 	require.ensure([],()=>{
 		resolve(require('../components/Joinus.vue'));
-	},'Public');
+	},'Joinus');
 }
 const Contactus=resolve=>{
 	require.ensure([],()=>{
 		resolve(require('../components/Contactus.vue'));
-	},'Public');
+	},'Contactus');
 }
 Vue.use(Router);
 
